@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7d0b5457-694e-45c5-b2f0-df14a4f66874" name="Changes" comment="github test - C를 D로 변경" />
+=======
+    <list default="true" id="7d0b5457-694e-45c5-b2f0-df14a4f66874" name="Changes" comment="github test - C를 D로 변경">
+      <change beforePath="$PROJECT_DIR$/githubTestD.html" beforeDir="false" afterPath="$PROJECT_DIR$/githubTestD.html" afterDir="false" />
+    </list>
+>>>>>>> 85b8a62a26a9108e027a52bc326d4aa3a2b06784
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +62,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "v3",
+=======
+    "git-widget-placeholder": "v4",
+>>>>>>> 85b8a62a26a9108e027a52bc326d4aa3a2b06784
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,7 +112,11 @@
       <option name="presentableId" value="Default" />
       <updated>1747615442792</updated>
       <workItem from="1747615443739" duration="630000" />
+<<<<<<< HEAD
       <workItem from="1747616083268" duration="4596000" />
+=======
+      <workItem from="1747616083268" duration="4130000" />
+>>>>>>> 85b8a62a26a9108e027a52bc326d4aa3a2b06784
     </task>
     <task id="LOCAL-00001" summary="github test - 파일 올려보기">
       <option name="closed" value="true" />
@@ -128,6 +142,7 @@
       <option name="project" value="LOCAL" />
       <updated>1747617002931</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00004" summary="github test - C를 D로 변경">
       <option name="closed" value="true" />
       <created>1747643693848</created>
@@ -137,6 +152,9 @@
       <updated>1747643693848</updated>
     </task>
     <option name="localTasksCounter" value="5" />
+=======
+    <option name="localTasksCounter" value="4" />
+>>>>>>> 85b8a62a26a9108e027a52bc326d4aa3a2b06784
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
